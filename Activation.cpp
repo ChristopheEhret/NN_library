@@ -1,16 +1,12 @@
-// #include "stdafx.h"
 #include "Activation.h"
 
 Activation::Activation() {
-
 }
 
 Sigmoid::Sigmoid() {
-
 }
 
 Softmax::Softmax() {
-
 }
 
 float Sigmoid::sigmoid(float x) {
